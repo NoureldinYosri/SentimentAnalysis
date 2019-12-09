@@ -1,3 +1,5 @@
+This My work to complete the sentiment analysis project using LSTM NN for Udacity's machine learning nano degree
+
 # Machine Learning Deployment using AWS SageMaker
 
 Code and associated files 
